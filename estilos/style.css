@@ -67,11 +67,6 @@ div#formulario > p {
     font-size: 0.9em;
 }
 
-form > input[type=password] {
-   
-}
-
-
 form > input[type=submit] {
     display: block;
     font-size: 1em;
